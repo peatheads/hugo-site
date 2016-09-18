@@ -5,6 +5,7 @@ title = "Peatheads - Whisky Blog"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
+canonifyurls = "true"
 
 [params]
 
