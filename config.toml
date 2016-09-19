@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://peatheads.github.io/peatheads/"
+baseurl = "https://peatheads.github.io/site/"
 languageCode = "de-de"
 title = "Peatheads - Whisky Blog"
 theme = "hugo-agency-theme"
