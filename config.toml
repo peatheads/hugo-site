@@ -90,6 +90,11 @@ canonifyurls = "true"
                 title = "Tastings"
                 description = "Bei den Tastings widmen wir uns in der Regel einem oder mehreren Tropfen und verköstigen diese."
 
+            [[params.services.row.list]]
+                icon = "fa-instagram"
+                title = "Galerie"
+                description = "Hier landet Footage zu all unseren Events."
+
 
 	# Team section
 	[params.team]
@@ -128,6 +133,18 @@ canonifyurls = "true"
 				["fa-facebook", "#"],
 				["fa-linkedin", "#"]
 			]
+
+
+                [[params.team.members]]
+                        img = "4.jpg"
+                        name = "Lukasz Lukaszewski"
+                        position = "Peatfreak"
+                        social = [
+                                ["fa-twitter", "#"],
+                                ["fa-facebook", "#"],
+                                ["fa-linkedin", "#"]
+                        ]
+		
 
 	# Contact section
 	[params.contact]
